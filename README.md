@@ -2,3 +2,4 @@
 ---
 사이트 : <https://bd.kma.go.kr/contest/main.do>
 ## 주제: 기상에 따른 선박 닻 끌림 예측
+https://github.com/dmswneunju/climate_project/issues/1#issue-1886911352
