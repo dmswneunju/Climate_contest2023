@@ -10,9 +10,11 @@
 - 활용 데이터 : 날씨마루에서 제공해준 선박 데이터, 기상 데이터, 해양 데이터
 
 ## 프로세스
-![005.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f631e2e7-e21c-4179-9427-d5f6ad386400/698a80aa-6f94-4c3c-ad58-6c056639321a/005.png)
+<img width="798" alt="image" src="https://github.com/user-attachments/assets/d95be7a3-10c9-4cb7-87ad-533fcbe5fd52">
 
 ## 분석기법
-![014.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f631e2e7-e21c-4179-9427-d5f6ad386400/3f07d50d-e4da-4875-9dc7-e5a6722e338b/014.png)
+<img width="799" alt="image" src="https://github.com/user-attachments/assets/0a9f29e2-9b6a-4d01-bc06-d99a3bc1b5fe">
+
 ## 분석결과
-![015.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f631e2e7-e21c-4179-9427-d5f6ad386400/6e8b028e-f52a-4eff-aea7-852c635524a9/015.png)
+<img width="798" alt="image" src="https://github.com/user-attachments/assets/5cb2b903-b23c-4e77-a05b-8ee47004c302">
+
